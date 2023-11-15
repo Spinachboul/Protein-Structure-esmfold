@@ -16,5 +16,4 @@ For more information, read the following articles:
 - [Evolutionary-scale prediction of atomic level protein structure with a language model](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2)
 - [AlphaFold’s new rival? Meta AI predicts shape of 600 million proteins](https://www.nature.com/articles/d41586-022-03539-1)
 
-# To test the app, click the link below
 <h2><a src = "https://protein-structure-esmfold-fyayh4ropf5tnwd62yurfj.streamlit.app/"> </a></h2>
