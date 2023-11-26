@@ -17,3 +17,6 @@ For more information, read the following articles:
 - [AlphaFold’s new rival? Meta AI predicts shape of 600 million proteins](https://www.nature.com/articles/d41586-022-03539-1)
 
 https://protein-structure-esmfold-fyayh4ropf5tnwd62yurfj.streamlit.app/
+
+## Check out the profile below!!
+<a src="https://github.com/Spinachboul"> Spinachboul </a>
