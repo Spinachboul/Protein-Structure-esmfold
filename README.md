@@ -1,6 +1,3 @@
-## Check out the profile below!!
-<a src="https://github.com/Spinachboul"> Spinachboul </a>
-
 # 🎈 ESMFold
 
 [*ESMFold*](https://esmatlas.com/about) is an end-to-end single sequence protein structure predictor based on the ESM-2 language model.
@@ -19,7 +16,9 @@ For more information, read the following articles:
 - [Evolutionary-scale prediction of atomic level protein structure with a language model](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2)
 - [AlphaFold’s new rival? Meta AI predicts shape of 600 million proteins](https://www.nature.com/articles/d41586-022-03539-1)
 
+
+## Here is the link to test the Web Application
 https://protein-structure-esmfold-fyayh4ropf5tnwd62yurfj.streamlit.app/
 
 ## Check out the profile below!!
-<a src="https://github.com/Spinachboul"> Spinachboul </a>
+https://github.com/Spinachboul
